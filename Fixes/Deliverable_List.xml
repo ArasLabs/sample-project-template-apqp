@@ -1,0 +1,19 @@
+﻿<AML>
+ <Item type="List" id="3C31C1702ECB4E6E9938B7545FB2E451" action="edit">
+  <name>Deliverable</name>
+  <Relationships>
+   <Item type="Value" id="CD95C267AE4148FC98ADBD9DA8C55E15" action="merge">
+    <label xml:lang="en">Design Quality Document</label>
+    <sort_order>256</sort_order>
+    <source_id keyed_name="Deliverable" type="List">3C31C1702ECB4E6E9938B7545FB2E451</source_id>
+    <value>7E7C1D482F924F64941ABAA80695CC74</value>
+   </Item>
+   <Item type="Value" id="99FDD0C601EE4A5A8FA4D638D3F8BA58" action="merge">
+    <label xml:lang="en">Process Quality Document</label>
+    <sort_order>512</sort_order>
+    <source_id keyed_name="Deliverable" type="List">3C31C1702ECB4E6E9938B7545FB2E451</source_id>
+    <value>0502CFF374144A999CF146424476765B</value>
+   </Item>
+  </Relationships>
+ </Item>
+</AML>
