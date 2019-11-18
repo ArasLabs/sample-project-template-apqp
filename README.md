@@ -3,12 +3,12 @@
 An implementation of the AIAG standard 5 Phase Project Template.
 
 #### Built Using:
-Aras 11.0 SP9
+Aras 12.0
 
 #### Versions Tested:
-Aras 11.0 SP9 (open release)
+Aras 12.0 (open release)
 
-> Though built and tested using Aras 11.0 SP9, this project should function in older releases of Aras 11.0 and Aras 10.0.
+> Though built and tested using Aras 12.0, this project should function in older releases of Aras 11.0 and Aras 10.0.
 
 ## Installation
 
@@ -17,16 +17,17 @@ Aras 11.0 SP9 (open release)
 
 ### Pre-requisites
 
-1. Aras Innovator installed (version 11.0 SPx preferred)
+1. Aras Innovator installed (version 12.0 SPx preferred)
 2. [APQP-Template.xml file](./Data/APQP-Template.xml)
+3. [Deliverable_List.xml file](./Fixes/Deliverable_List.xml)
 
 ### Install Steps
 
 1. Open up Nash.aspx or AML Studio.
   * You can access Nash via your Aras url: http://localhost/InnovatorServer/Client/scripts/nash.aspx
 2. Login using your Aras instance credentials.
-3. Copy the contents of `APQP-Template.xml` into Nash or AML Studio.
-4. Click **Submit**.
+3. Copy the contents of `APQP-Template.xml` into Nash or AML Studio. Click **Submit**.
+4. Copy the contents of `Deliverable_List.xml` into Nash or AML Studio. Click **Submit**.
 
 ### Admin Steps
 
