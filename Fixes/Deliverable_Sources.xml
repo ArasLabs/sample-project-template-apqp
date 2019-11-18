@@ -1,0 +1,16 @@
+﻿<AML>
+ <Item type="ItemType" action="edit" id="86920FEE161244F6B4B507130B18CADE">
+  <Relationships>
+   <Item type="Morphae" id="AC911DE50A89487BA7E9D32073162A07" action="add">
+    <related_id keyed_name="Design Quality Document" type="ItemType" name="Design Quality Document">7E7C1D482F924F64941ABAA80695CC74</related_id>
+    <sort_order>256</sort_order>
+    <source_id keyed_name="Deliverable" type="ItemType" name="Deliverable">86920FEE161244F6B4B507130B18CADE</source_id>
+   </Item>
+   <Item type="Morphae" id="CC8BE365B0874C0AA679E07CFCF78565" action="add">
+    <related_id keyed_name="Process Quality Document" type="ItemType" name="Process Quality Document">0502CFF374144A999CF146424476765B</related_id>
+    <sort_order>384</sort_order>
+    <source_id keyed_name="Deliverable" type="ItemType" name="Deliverable">86920FEE161244F6B4B507130B18CADE</source_id>
+   </Item>
+  </Relationships>
+ </Item>
+</AML>
